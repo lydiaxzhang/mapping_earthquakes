@@ -56,7 +56,7 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
     accessToken: API_KEY
 });
 
-// Create a base layer that holds both maps.
+// Create a base layer that holds both maps
 let baseMaps = {
   Street: streets,
   Dark: dark
